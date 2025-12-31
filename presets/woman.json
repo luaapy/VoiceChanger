@@ -1,0 +1,12 @@
+{
+    "name": "Woman",
+    "pitch_shift": 5,
+    "formant_ratio": 1.2,
+    "effects": {
+        "reverb": {"enabled": false},
+        "chorus": {"enabled": false},
+        "distortion": {"enabled": false},
+        "compressor": {"enabled": true, "ratio": 2},
+        "delay": {"enabled": false}
+    }
+}

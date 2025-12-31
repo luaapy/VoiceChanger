@@ -1,0 +1,24 @@
+{
+    "name": "Telephone",
+    "pitch_shift": 0,
+    "formant_ratio": 1.0,
+    "effects": {
+        "reverb": {
+            "enabled": false
+        },
+        "chorus": {
+            "enabled": false
+        },
+        "distortion": {
+            "enabled": true,
+            "drive_db": 5
+        },
+        "compressor": {
+            "enabled": true,
+            "ratio": 6
+        },
+        "delay": {
+            "enabled": false
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Male Voice",
+    "pitch_shift": -4,
+    "formant_ratio": 0.85,
+    "effects": {
+        "reverb": {
+            "enabled": false
+        },
+        "chorus": {
+            "enabled": false
+        },
+        "distortion": {
+            "enabled": false
+        },
+        "compressor": {
+            "enabled": true,
+            "ratio": 2.5
+        },
+        "delay": {
+            "enabled": false
+        }
+    }
+}

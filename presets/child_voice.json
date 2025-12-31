@@ -1,0 +1,23 @@
+{
+    "name": "Child Voice",
+    "pitch_shift": 7,
+    "formant_ratio": 1.4,
+    "effects": {
+        "reverb": {
+            "enabled": false
+        },
+        "chorus": {
+            "enabled": false
+        },
+        "distortion": {
+            "enabled": false
+        },
+        "compressor": {
+            "enabled": true,
+            "ratio": 2
+        },
+        "delay": {
+            "enabled": false
+        }
+    }
+}

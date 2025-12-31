@@ -1,0 +1,26 @@
+{
+    "name": "Monster",
+    "pitch_shift": -10,
+    "formant_ratio": 0.6,
+    "effects": {
+        "reverb": {
+            "enabled": true,
+            "room_size": 0.8,
+            "wet_level": 0.3
+        },
+        "chorus": {
+            "enabled": false
+        },
+        "distortion": {
+            "enabled": true,
+            "drive_db": 10
+        },
+        "compressor": {
+            "enabled": true,
+            "ratio": 4
+        },
+        "delay": {
+            "enabled": false
+        }
+    }
+}

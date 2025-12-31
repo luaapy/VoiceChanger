@@ -1,0 +1,82 @@
+2025-12-31 08:44:01,152 - root - INFO - NoiseCanceller disabled
+2025-12-31 08:44:01,155 - root - INFO - VoiceBeautifier disabled
+2025-12-31 08:44:01,335 - DeviceManager - INFO - Auto-selected real microphone: Internal Microphone (Conexant I (ID: 2)
+2025-12-31 08:44:01,337 - DeviceManager - INFO - Virtual Cable not found.
+2025-12-31 08:44:03,954 - VoiceChangerEngine - INFO - Starting Voice Changer Engine...
+2025-12-31 08:44:03,955 - AudioCapture - INFO - Starting capture on device 2
+2025-12-31 08:44:04,084 - AudioOutput - INFO - Starting output on device None
+2025-12-31 08:44:04,195 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0031 | Queue Size: 0
+2025-12-31 08:44:06,510 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 1.0000 | Queue Size: 1
+2025-12-31 08:44:06,642 - VoiceChangerEngine - INFO - Stopping Engine...
+2025-12-31 08:44:13,738 - VoiceChangerEngine - INFO - Starting Voice Changer Engine...
+2025-12-31 08:44:13,740 - AudioCapture - INFO - Starting capture on device 2
+2025-12-31 08:44:13,828 - AudioOutput - INFO - Starting output on device 3
+2025-12-31 08:44:13,961 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0031 | Queue Size: 1
+2025-12-31 08:44:16,262 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 1.0000 | Queue Size: 0
+2025-12-31 08:44:18,592 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0397 | Queue Size: 1
+2025-12-31 08:44:20,915 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0458 | Queue Size: 1
+2025-12-31 08:44:23,234 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0031 | Queue Size: 1
+2025-12-31 08:44:25,553 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0458 | Queue Size: 0
+2025-12-31 08:44:27,874 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0031 | Queue Size: 1
+2025-12-31 08:44:30,204 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0000 | Queue Size: 1
+2025-12-31 08:44:32,524 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0000 | Queue Size: 0
+2025-12-31 08:44:34,844 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.1099 | Queue Size: 1
+2025-12-31 08:44:37,164 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0031 | Queue Size: 1
+2025-12-31 08:44:39,485 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0000 | Queue Size: 1
+2025-12-31 08:44:39,721 - root - INFO - NoiseCanceller enabled
+2025-12-31 08:44:39,722 - root - INFO - NoiseCanceller intensity set to 'light'
+2025-12-31 08:44:42,471 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 50
+2025-12-31 08:44:42,641 - AudioCapture - WARNING - Input Queue Full. Dropped 50 frames.
+2025-12-31 08:44:43,378 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0015 | Queue Size: 5
+2025-12-31 08:44:45,212 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 100
+2025-12-31 08:44:45,335 - AudioCapture - WARNING - Input Queue Full. Dropped 100 frames.
+2025-12-31 08:44:47,380 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0008 | Queue Size: 4
+2025-12-31 08:44:48,002 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 150
+2025-12-31 08:44:48,214 - AudioCapture - WARNING - Input Queue Full. Dropped 150 frames.
+2025-12-31 08:44:50,971 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 200
+2025-12-31 08:44:51,142 - AudioCapture - WARNING - Input Queue Full. Dropped 200 frames.
+2025-12-31 08:44:51,232 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0000 | Queue Size: 5
+2025-12-31 08:44:53,942 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 250
+2025-12-31 08:44:54,112 - AudioCapture - WARNING - Input Queue Full. Dropped 250 frames.
+2025-12-31 08:44:55,127 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.1331 | Queue Size: 5
+2025-12-31 08:44:56,221 - AudioOutput - WARNING - Output Underflow (Silence inserted). Total: 300
+2025-12-31 08:44:56,342 - AudioCapture - WARNING - Input Queue Full. Dropped 300 frames.
+2025-12-31 08:44:56,569 - VoiceChangerEngine - INFO - Stopping Engine...
+2025-12-31 08:48:41,397 - root - INFO - NoiseCanceller disabled
+2025-12-31 08:48:41,398 - root - INFO - VoiceBeautifier disabled
+2025-12-31 08:48:41,539 - DeviceManager - INFO - Auto-selected real microphone: Internal Microphone (Conexant I (ID: 2)
+2025-12-31 08:48:41,541 - DeviceManager - INFO - Virtual Cable not found.
+2025-12-31 08:48:44,298 - VoiceChangerEngine - INFO - Starting Voice Changer Engine...
+2025-12-31 08:48:44,299 - AudioCapture - INFO - Starting capture on device 2
+2025-12-31 08:48:44,427 - AudioOutput - INFO - Starting output on device None
+2025-12-31 08:48:44,555 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 0
+2025-12-31 08:48:46,852 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0037 | Queue Size: 1
+2025-12-31 08:48:49,183 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0009 | Queue Size: 0
+2025-12-31 08:48:50,033 - PitchProcessor - ERROR - Pitch shift failed: Failed to execute rubberband. Please verify that rubberband-cli is installed.
+2025-12-31 08:48:50,049 - PitchProcessor - ERROR - Pitch shift failed: Failed to execute rubberband. Please verify that rubberband-cli is installed.
+2025-12-31 08:48:50,075 - PitchProcessor - ERROR - Pitch shift failed: Failed to execute rubberband. Please verify that rubberband-cli is installed.
+2025-12-31 08:48:51,517 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:48:53,835 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:48:56,154 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0004 | Queue Size: 1
+2025-12-31 08:48:58,473 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0314 | Queue Size: 1
+2025-12-31 08:49:00,804 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0448 | Queue Size: 1
+2025-12-31 08:49:03,125 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0004 | Queue Size: 1
+2025-12-31 08:49:05,444 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0006 | Queue Size: 1
+2025-12-31 08:49:07,764 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0005 | Queue Size: 1
+2025-12-31 08:49:10,084 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:49:12,413 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0468 | Queue Size: 1
+2025-12-31 08:49:14,735 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0006 | Queue Size: 1
+2025-12-31 08:49:17,054 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:49:19,374 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:49:21,695 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0021 | Queue Size: 1
+2025-12-31 08:49:24,023 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:49:26,343 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0003 | Queue Size: 1
+2025-12-31 08:49:28,664 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0009 | Queue Size: 1
+2025-12-31 08:49:29,995 - root - INFO - NoiseCanceller enabled
+2025-12-31 08:49:29,995 - root - INFO - NoiseCanceller intensity set to 'medium'
+2025-12-31 08:49:30,984 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.1187 | Queue Size: 1
+2025-12-31 08:49:31,925 - root - INFO - NoiseCanceller enabled
+2025-12-31 08:49:31,925 - root - INFO - NoiseCanceller intensity set to 'aggressive'
+2025-12-31 08:49:33,305 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.1298 | Queue Size: 1
+2025-12-31 08:49:35,633 - VoiceChangerEngine - INFO - Audio Processing - Peak Level: 0.0849 | Queue Size: 1
+2025-12-31 08:49:36,545 - VoiceChangerEngine - INFO - Stopping Engine...

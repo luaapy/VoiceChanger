@@ -1,0 +1,12 @@
+{
+    "name": "Deep Voice",
+    "pitch_shift": -6,
+    "formant_ratio": 0.8,
+    "effects": {
+        "reverb": {"enabled": true, "room_size": 0.6, "wet_level": 0.1},
+        "chorus": {"enabled": false},
+        "distortion": {"enabled": false},
+        "compressor": {"enabled": true, "ratio": 3},
+        "delay": {"enabled": false}
+    }
+}

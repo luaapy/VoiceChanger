@@ -1,0 +1,12 @@
+{
+    "name": "Default",
+    "pitch_shift": 0,
+    "formant_ratio": 1.0,
+    "effects": {
+        "reverb": {"enabled": false},
+        "chorus": {"enabled": false},
+        "distortion": {"enabled": false},
+        "compressor": {"enabled": false},
+        "delay": {"enabled": false}
+    }
+}

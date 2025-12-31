@@ -1,0 +1,30 @@
+{
+    "name": "Ghost",
+    "pitch_shift": 2,
+    "formant_ratio": 1.1,
+    "effects": {
+        "reverb": {
+            "enabled": true,
+            "room_size": 0.95,
+            "wet_level": 0.6
+        },
+        "chorus": {
+            "enabled": true,
+            "rate_hz": 0.5,
+            "depth": 0.5,
+            "mix": 0.3
+        },
+        "distortion": {
+            "enabled": false
+        },
+        "compressor": {
+            "enabled": false
+        },
+        "delay": {
+            "enabled": true,
+            "delay_seconds": 0.3,
+            "feedback": 0.4,
+            "mix": 0.25
+        }
+    }
+}

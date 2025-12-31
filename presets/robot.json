@@ -1,0 +1,12 @@
+{
+    "name": "Robot",
+    "pitch_shift": -2,
+    "formant_ratio": 1.0,
+    "effects": {
+        "reverb": {"enabled": true, "room_size": 0.2, "wet_level": 0.2},
+        "chorus": {"enabled": true, "rate_hz": 4.0, "depth": 0.8},
+        "distortion": {"enabled": true, "drive_db": 10},
+        "compressor": {"enabled": true, "ratio": 4},
+        "delay": {"enabled": true, "time": 0.05, "feedback": 0.3}
+    }
+}

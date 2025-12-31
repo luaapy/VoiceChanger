@@ -1,0 +1,12 @@
+{
+    "name": "Chipmunk",
+    "pitch_shift": 8,
+    "formant_ratio": 1.5,
+    "effects": {
+        "reverb": {"enabled": false},
+        "chorus": {"enabled": false},
+        "distortion": {"enabled": false},
+        "compressor": {"enabled": false},
+        "delay": {"enabled": false}
+    }
+}

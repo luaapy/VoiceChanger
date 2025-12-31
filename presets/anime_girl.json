@@ -1,0 +1,26 @@
+{
+    "name": "Anime Girl",
+    "pitch_shift": 6,
+    "formant_ratio": 1.35,
+    "effects": {
+        "reverb": {
+            "enabled": false
+        },
+        "chorus": {
+            "enabled": true,
+            "rate_hz": 1.5,
+            "depth": 0.3,
+            "mix": 0.2
+        },
+        "distortion": {
+            "enabled": false
+        },
+        "compressor": {
+            "enabled": true,
+            "ratio": 2
+        },
+        "delay": {
+            "enabled": false
+        }
+    }
+}
